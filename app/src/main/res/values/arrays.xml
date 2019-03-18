@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="options" >
+        <item>JasonS Linear Layout Kick</item>
+        <item>JasonS Relative Layout Punch</item>
+        <item>JasonS Card View Sidekick</item>
+    </string-array>
+</resources>
